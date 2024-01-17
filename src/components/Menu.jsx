@@ -11,7 +11,7 @@ export default function Menu() {
           <Link href="equipe">Equipe</Link>
         </li>
         <li>
-          <Link href="servico">Serviços</Link>
+          <Link href="servicos">Serviços</Link>
         </li>
       </ul>
     </nav>
